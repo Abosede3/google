@@ -149,6 +149,7 @@ li:first-child{
 }
 .language-item a{
     color: #30A4D0;
+    font-size: small;
 }
 b{
     color: #fff;
